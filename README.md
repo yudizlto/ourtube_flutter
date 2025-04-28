@@ -9,7 +9,7 @@ A simple YouTube clone app made with Flutter. Supports localization (l10n), Supa
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ourtube_flutter.git
+git clone https://github.com/yudizlto/ourtube_flutter.git
 cd ourtube_flutter
 ```
 
@@ -117,6 +117,7 @@ This project uses icons from [Flaticon](https://www.flaticon.com/) under the Fla
 #
 ### Download APK
 
-You can download the OurTube APK (armeabi-v7a version) from the link below:
+You can download the OurTube APK from the link below:
 
-[Download APK](https://drive.google.com/drive/folders/1tufFEujmOyVKLs3dzZ6sUw2KFwwKNfZs)
+- [Download APK (arm64-v8a)](https://drive.google.com/file/d/1RFb1hGCwyx7n7UpNRL_0x7s-O0j6Adyj/view?usp=sharing)
+- [Download APK (armeabi-v7a)](https://drive.google.com/file/d/1ydj6JJU9b9NGhfQvBQyNxDtagg7R_jiH/view?usp=sharing)
