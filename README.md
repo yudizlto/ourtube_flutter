@@ -70,22 +70,22 @@ A visual walkthrough of OurTube's main screens and user flows.
 ---
 
 ### Home Screens
-![Image](https://github.com/user-attachments/assets/e50aea34-4f3e-4a06-b491-34f016a07a5a)
+![Image](https://github.com/user-attachments/assets/7871806c-0a8d-432e-905d-7d1d9e0e8531)
 
 ### Subscription Screen
 A feed showing videos from channels the user has subscribed to.
 #
-![Image](https://github.com/user-attachments/assets/c52fd283-0b93-4d9f-9290-bb3cbf460fa9)
+![Image](https://github.com/user-attachments/assets/d3b8c8d2-8bb8-4191-b069-1915e4f819a1)
 
 ### Library Screen
 Displays user's watch history, liked videos, and saved content.
 #
-![Image](https://github.com/user-attachments/assets/f772abb3-6a46-438e-8c81-d66a8151edf9)
+![Image](https://github.com/user-attachments/assets/75c328a2-bb33-44a1-99ca-384ed16bbbae)
 
 ### My Channel
 User profile page showing uploaded videos, channel banner, and info.
 #
-![Image](https://github.com/user-attachments/assets/80265040-7e87-4c2e-84f7-721a8c8e889e)
+![Image](https://github.com/user-attachments/assets/77d3b1cf-e315-4bb2-b8b8-525c4f7ae0fc)
 
 ### Home Drawer & Categories
 The home drawer includes quick access to various video categories, include:
@@ -93,7 +93,7 @@ The home drawer includes quick access to various video categories, include:
 - 🎵 Music
 - etc
 #
-![Image](https://github.com/user-attachments/assets/de7013ed-f220-4cb6-aef2-7b2f7086a138)
+![Image](https://github.com/user-attachments/assets/165b8ab6-06b9-436b-bcd3-7e5e69333225)
 
 #
 ## 🎨 Icons Attribution
